@@ -1,2 +1,6 @@
 
 *data
+.gitattributes
+.ipynb_checkpoints
+.gitignore
+.desktop.ini
