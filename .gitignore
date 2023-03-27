@@ -9,6 +9,7 @@ chembl_pred.py
 chemial_target_interactions.ipynb
 CTD.ipynb
 cvd_in_latent_space_GM.ipynb
+chemical_bioact.ipynb
 *figures
 *literature
 *manuscript
@@ -44,4 +45,4 @@ data/out_neg_0_50.json
 data/PathwayCommons13.All.hgnc.gmt
 data/target_similarity_mtx.csv
 data/HPI_2D_ParametricUMAP.csv
-chemical_bioact.ipynb
+cvds.ipynb
