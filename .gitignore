@@ -13,6 +13,7 @@ cvds.ipynb
 ppi_embedding.ipynb
 drugbank.ipynb
 negative_controls.ipynb
+chemical_bioact.ipynb
 *figures
 *literature
 *manuscript
@@ -47,8 +48,8 @@ data/out_neg_0_50.json
 data/PathwayCommons13.All.hgnc.gmt
 data/target_similarity_mtx.csv
 data/HPI_2D_ParametricUMAP.csv
-
 data/bioactivities.csv
 data/drug_target_drugbank.csv
 data/Gooseberry_target_list.csv
 data/hallmark_of_aging_cleaned.csv
+
