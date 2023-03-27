@@ -48,3 +48,7 @@ data/PathwayCommons13.All.hgnc.gmt
 data/target_similarity_mtx.csv
 data/HPI_2D_ParametricUMAP.csv
 
+data/bioactivities.csv
+data/drug_target_drugbank.csv
+data/Gooseberry_target_list.csv
+data/hallmark_of_aging_cleaned.csv
