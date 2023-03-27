@@ -9,9 +9,10 @@ chembl_pred.py
 chemial_target_interactions.ipynb
 CTD.ipynb
 cvd_in_latent_space_GM.ipynb
-chemical_bioact.ipynb
 cvds.ipynb
 ppi_embedding.ipynb
+drugbank.ipynb
+negative_controls.ipynb
 *figures
 *literature
 *manuscript
@@ -29,7 +30,6 @@ data/chemical_gene_count.svg
 data/chemical_target_both_version.csv
 data/chemical_target_chembl_pred.csv
 data/chemical_target_db.csv
-data/chemical_target_experiment.csv
 data/classyfire_results.csv
 data/CTD_chem_gene_ixns.csv
 data/enriched_pathways.json
