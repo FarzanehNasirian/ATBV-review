@@ -43,4 +43,5 @@ data/out_neg_0_100.json
 data/out_neg_0_50.json
 data/PathwayCommons13.All.hgnc.gmt
 data/target_similarity_mtx.csv
+HPI_2D_ParametricUMAP.csv
 chemical_bioact.ipynb
