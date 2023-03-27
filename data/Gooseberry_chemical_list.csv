@@ -1,0 +1,12 @@
+chemName,chemId,CID,inchikey,iso_smiles,kingdom,superclass,class
+Geraniin,CHEMBL506069,3001497,JQQBXPCJFAKSPG-SVYIMCMUSA-N,C1[C@@H]2[C@@H]3[C@@H]([C@H]([C@@H](O2)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C6=C5[C@@H]7C(=CC(=O)[C@@](C7(O)O)(O6)O)C(=O)O3)O)O)OC(=O)C8=CC(=C(C(=C8C9=C(C(=C(C=C9C(=O)O1)O)O)O)O)O)O,Organic compounds,Phenylpropanoids and polyketides,Tannins
+Kaempferol,CHEMBL150,5280863,IYRMWMYZSQPJKC-UHFFFAOYSA-N,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,Organic compounds,Phenylpropanoids and polyketides,Flavonoids
+Quercetin,CHEMBL50,5280343,REFJWTPEDVJJIY-UHFFFAOYSA-N,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,Organic compounds,Phenylpropanoids and polyketides,Flavonoids
+Pyrogallol,CHEMBL307145,1057,WQGWDDDVZFFDIG-UHFFFAOYSA-N,C1=CC(=C(C(=C1)O)O)O,Organic compounds,Benzenoids,Phenols
+Gallic acid,CHEMBL288114,370,LNTHITQWFMADLM-UHFFFAOYSA-N,C1=C(C=C(C(=C1O)O)O)C(=O)O,Organic compounds,Benzenoids,Benzene and substituted derivatives
+Citric acid,CHEMBL1261,311,KRKNYBCHXYNGOX-UHFFFAOYSA-N,C(C(=O)O)C(CC(=O)O)(C(=O)O)O,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives
+Ascorbic acid,CHEMBL196,54670067,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O,Organic compounds,Organoheterocyclic compounds,Dihydrofurans
+Ellagic acid,CHEMBL6246,5281855,AFSDNFLWKVMVRB-UHFFFAOYSA-N,C1=C2C3=C(C(=C1O)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)O,Organic compounds,Phenylpropanoids and polyketides,Tannins
+Chebulinic acid,CHEMBL501154,452240,YGVHOSGNOYKRIH-JHSYUSIXSA-N,C1=C(C=C(C(=C1O)O)O)C(=O)OC[C@@H]2[C@@H]3[C@@H]([C@H]([C@@H](O2)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C6=C5[C@H]([C@H](C(=O)O3)CC(=O)O)[C@@H](C(=O)O6)O)O)O)OC(=O)C7=CC(=C(C(=C7)O)O)O,Organic compounds,Phenylpropanoids and polyketides,Tannins
+Corilagin,CHEMBL449392,73568,TUSDEZXZIZRFGC-XIGLUPEJSA-N,C1[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)O)OC(=O)C4=CC(=C(C(=C4C5=C(C(=C(C=C5C(=O)O1)O)O)O)O)O)O)O,Organic compounds,Phenylpropanoids and polyketides,Tannins
+Pedunculagin,CHEMBL506204,442688,IYMHVUYNBVWXKH-ZITZVVOASA-N,C1[C@@H]2[C@H]([C@H]3[C@H](C(O2)O)OC(=O)C4=CC(=C(C(=C4C5=C(C(=C(C=C5C(=O)O3)O)O)O)O)O)O)OC(=O)C6=CC(=C(C(=C6C7=C(C(=C(C=C7C(=O)O1)O)O)O)O)O)O,Organic compounds,Phenylpropanoids and polyketides,Tannins

@@ -1,5 +1,4 @@
 
-*data
 gitattributes
 ipynb_checkpoints
 desktop.ini
@@ -19,3 +18,29 @@ lccsig.py
 pathwaycommons.ipynb
 ppi_embedding.ipynb
 stitch.ipynb
+data/9606.protein_chemical.links.detailed.v5.0.tsv.gz
+data/amla_non_therapeutic_areas.csv
+data/amla_non_therapeutic_areas_second_set.csv
+data/chemical_target_autodock.csv
+data/chemical_gene_count.svg
+data/chemical_target_both_version.csv
+data/chemical_target_chembl_pred.csv
+data/chemical_target_db.csv
+data/chemical_target_experiment.csv
+data/classyfire_results.csv
+data/CTD_chem_gene_ixns.csv
+data/enriched_pathways.json
+data/DockingResults.xls
+data/Gooseberry_chemical_list_mesh.csv
+data/Gooseberry_chemical_list_v0.csv
+data/Homo_sapiens.GRCh38.108.entrez.tsv.gz
+data/HPI_3D_ParametricUMAP.csv
+data/interactions.pptx
+data/ncbi_dataset-Oct2022.tsv
+data/out_0_600.json
+data/out_0_600_v1.json
+data/out_neg_0_100.json
+data/out_neg_0_50.json
+data/PathwayCommons13.All.hgnc.gmt
+data/target_similarity_mtx.csv
+chemical_bioact.ipynb
